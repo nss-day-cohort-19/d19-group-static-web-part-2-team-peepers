@@ -30,21 +30,21 @@ body {
     position: relative;
 }
 
-.header-logo{
+.main-logo{
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 40%;
 }
 
-.header-logo h1 {
+.main-logo h1 {
     font-size: 5em;
     color: white;
     margin-bottom: 0;
     padding-left: 50px;
 }
 
-.header-logo h3 {
+.main-logo h3 {
     font-size: 2em;
     color: white;
     margin: 0;
@@ -52,17 +52,45 @@ body {
     padding-left: 50px;
 }
 
-/** Nav **/
+
+/** Header for all other site pages **/
+
+
+#site-head {
+    width: 100%;
+    height: 30%;
+    background-image: url("../img/colorcloud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+    position: relative;
+}
+
+.site-logo {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30%;
+    margin-bottom: 5px;
+}
+
+#site-h1 {
+    font-size: 2em;
+    color: white;
+/*    margin-bottom: 0;*/
+    padding-left: 50px;
+}
+
+/** Nav for Main page and all other pages**/
 
 #main-nav {
     background-color: white;
-    margin-top: 2em;;
+    margin-top: 2em;
     height: 3em;
 }
 
 nav {
     background-color: white;
-    margin-top: 2em;
 }
 
 nav ul {
@@ -76,7 +104,7 @@ nav ul li{
     margin-left: 1em;
     text-align: center;
     height: 30px;
-    margin-bottom: 0;
+    margin-bottom: 5px;
     background-color: red;
     padding: 5px 5px 0 5px;
     margin-top: 5px;
@@ -108,6 +136,8 @@ nav ul a {
     background-color: teal;
 }
 
+#site-nav {}
+
 
 /** Footer **/
 
@@ -131,6 +161,13 @@ footer {
 
 
 /** Products Page **/
+
+
+
+
+
+
+/** Employee Page **/
 
 
 
