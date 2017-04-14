@@ -5,7 +5,7 @@ var employees = [
     name: "Jackie",
     about: "Hail-shot no prey, no pay lass Privateer spirits aft ho lee bring a spring upon her cable gunwalls. Doubloon hardtack jolly boat piracy red ensign wench log American Main fore hearties. Marooned heave to hulk flogging reef gibbet aft lugger port wench."
     },
-    {image: "../img/SpaceGhost.jpg",
+    {image: "../img/fry2.png",
     name: "Willie",
     about: "Rope's end brig quarterdeck booty scuttle Cat o'nine tails spirits gangway dance the hempen jig lass. Jib scuttle weigh anchor crimp fore shrouds driver furl ye squiffy. Overhaul ho code of conduct spyglass main sheet ye pillage clap of thunder long boat brigantine."
     },
