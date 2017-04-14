@@ -153,21 +153,43 @@ footer {
 
 
 /** About Page **/
+/**magenta orangered forestgreen rebeccapurple teal**/
 .hist-aboutus {
     font-size: 30px;
     margin-bottom: -5px;
+    margin-left: 20%;
+    color: magenta;
 }
 .hist-walg {
     text-align: center;
+    color: orangered;
+}
+.hist-article span {
+    color: rebeccapurple;
+}
+.hist-walg span {
+    color: gold;
 }
 .hist-article p {
     text-align: center;
-    width: 50%
+    width: 50%;
     margin: 0 auto;
+    color: forestgreen;
 }
 .hist-section {
     background-color: white;
     padding: 3px 20px 10px;
+    margin: 0px 20px;
+    height: 600px;
+    /**overflow: auto;**/
+}
+.hist-imgmoon {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px
+    background-image: url("../img/mooninites.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 
