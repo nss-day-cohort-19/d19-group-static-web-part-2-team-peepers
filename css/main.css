@@ -142,11 +142,12 @@ nav ul a {
 /** Footer **/
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     text-align: center;
     width: 100%;
     color: #464646;
+    background-color: black;
 }
 
 
@@ -169,7 +170,32 @@ footer {
 
 /** Employee Page **/
 
+.employee-js {
+    background-color: white;
+    width: 30%;
+    padding: 10px;
 
+}
+
+#employee-profiles {
+    display: flex;
+    justify-content: space-around;
+}
+
+.employee-photo {
+    width: 15vw;
+    height: 15vw;
+    margin-left: 20%;
+}
+
+.employee-name, .employee-about {
+    text-align: center;
+}
+
+.employee-name {
+    font-weight: 800;
+    font-size: 2vw;
+}
 
 
 /** Contact Page **/
