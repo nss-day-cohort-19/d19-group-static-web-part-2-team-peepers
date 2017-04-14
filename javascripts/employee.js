@@ -14,7 +14,6 @@ var employees = [
     about: "Tackle quarterdeck heave down maroon lad rope's end Davy Jones' Locker code of conduct boatswain tack. Mutiny log nipper yard pressgang Shiver me timbers maroon crack Jennys tea cup bilge rat Admiral of the Black. Broadside parrel log keel scourge of the seven seas gun nipperkin avast brigantine black spot."
     }
 ]
-var increment = 0;
 
 for (awesome in employees) {
     var peeps = `<article class="employee-js">

@@ -179,6 +179,48 @@ footer {
 
 /** Products Page **/
 
+.products-js {
+    width: 30%;
+    height: 70%;
+    background-color: white;
+    margin: 10px;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+.product-images {
+    width: 80%;
+    height: 40%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#product-ID {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.product-name {
+    text-align: center;
+    font-size: 2vw;
+    color: orangered;
+    font-weight: 700;
+}
+
+.product-description {
+    font-size: 1.2vw;
+    color: forestgreen;
+}
+
+.product-price {
+    font-weight: 700;
+    color: teal;
+}
+
+
+
 
 
 
