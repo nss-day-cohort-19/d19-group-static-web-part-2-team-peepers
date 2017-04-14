@@ -1,0 +1,201 @@
+/** Body and HTML margins **/
+
+html {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+#main-page {
+    background-color: white;
+}
+
+
+/** Header for Home Page **/
+
+#main-head {
+    width: 100%;
+    height: 80%;
+    background-image: url("../img/colorcloud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+    position: relative;
+}
+
+.main-logo{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40%;
+}
+
+.main-logo h1 {
+    font-size: 5em;
+    color: white;
+    margin-bottom: 0;
+    padding-left: 50px;
+}
+
+.main-logo h3 {
+    font-size: 2em;
+    color: white;
+    margin: 0;
+    font-style: oblique;
+    padding-left: 50px;
+}
+
+
+/** Header for all other site pages **/
+
+
+#site-head {
+    width: 100%;
+    height: 30%;
+    background-image: url("../img/colorcloud.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+    position: relative;
+}
+
+.site-logo {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 30%;
+    margin-bottom: 5px;
+}
+
+#site-h1 {
+    font-size: 2em;
+    color: white;
+/*    margin-bottom: 0;*/
+    padding-left: 50px;
+}
+
+/** Nav for Main page and all other pages**/
+
+#main-nav {
+    background-color: white;
+    margin-top: 2em;
+    height: 3em;
+}
+
+nav {
+    background-color: white;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+nav ul li{
+    list-style: none;
+    margin-left: 1em;
+    text-align: center;
+    height: 30px;
+    margin-bottom: 5px;
+    background-color: red;
+    padding: 5px 5px 0 5px;
+    margin-top: 5px;
+}
+
+nav ul a {
+    text-decoration: none;
+    margin-bottom: 0;
+    color: white;
+}
+
+.li1 {
+    background-color: magenta;
+}
+
+.li2 {
+    background-color:orangered;
+}
+
+.li3 {
+    background-color: forestgreen;
+}
+
+.li4 {
+    background-color: rebeccapurple;
+}
+
+.li5 {
+    background-color: teal;
+}
+
+#site-nav {}
+
+
+/** Footer **/
+
+footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color: #464646;
+    background-color: black;
+}
+
+
+
+/** About Page **/
+
+
+
+
+
+
+
+
+/** Products Page **/
+
+
+
+
+
+
+/** Employee Page **/
+
+.employee-js {
+    background-color: white;
+    width: 30%;
+    padding: 10px;
+
+}
+
+#employee-profiles {
+    display: flex;
+    justify-content: space-around;
+}
+
+.employee-photo {
+    width: 15vw;
+    height: 15vw;
+    margin-left: 25%;
+}
+
+.employee-name, .employee-about {
+    text-align: center;
+}
+
+.employee-name {
+    font-weight: 800;
+    font-size: 2vw;
+}
+
+
+/** Contact Page **/
