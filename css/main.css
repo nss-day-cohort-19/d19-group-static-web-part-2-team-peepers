@@ -153,6 +153,22 @@ footer {
 
 
 /** About Page **/
+.hist-aboutus {
+    font-size: 30px;
+    margin-bottom: -5px;
+}
+.hist-walg {
+    text-align: center;
+}
+.hist-article p {
+    text-align: center;
+    width: 50%
+    margin: 0 auto;
+}
+.hist-section {
+    background-color: white;
+    padding: 3px 20px 10px;
+}
 
 
 
