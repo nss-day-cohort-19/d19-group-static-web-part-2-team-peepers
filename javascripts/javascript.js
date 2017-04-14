@@ -18,7 +18,7 @@ var liquidgold = [{
 				{
 					name: "Kidney Failure",
 					description:"Warning: The name isn't just a joke, upon opening this bottle you transfer all responsibility for any adverse effects to you or others who ingest this liquid from Liquid Gold to yourself. It may seem unsafe to ingest something with a binding legal contract like that, but we promise the kidney transplants are worth it.",
-					price:".99\xA2 ea.<br />6pack - $5.00<br />Case of 24 - $20.00",					url:"../img/kidneyfailure(2).jpg"
+					price:".99\xA2 ea.<br />6pack - $5.00<br />Case of 24 - $20.00",					url:"../img/kidneyfailure.jpeg"
 				},
 				{
 					name: "Water",
