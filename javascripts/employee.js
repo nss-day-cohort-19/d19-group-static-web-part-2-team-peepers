@@ -14,6 +14,7 @@ var employees = [
     about: "Tackle quarterdeck heave down maroon lad rope's end Davy Jones' Locker code of conduct boatswain tack. Mutiny log nipper yard pressgang Shiver me timbers maroon crack Jennys tea cup bilge rat Admiral of the Black. Broadside parrel log keel scourge of the seven seas gun nipperkin avast brigantine black spot."
     }
 ]
+var increment = 0;
 
 for (awesome in employees) {
     var peeps = `<article class="employee-js">
@@ -24,13 +25,7 @@ for (awesome in employees) {
     profiles.innerHTML += peeps;
 }
 
-//for (prop in productArray) {
-//    var cards = `<article class="articles">
-//                    <img class="image-size" src="${productArray[prop].image}">
-//                    <div class = "overlay">
-//                        <h2>${productArray[prop].name} </h2>
-//                        <p class="description">${productArray[prop].description}</p>
-//                        <p class="price">${productArray[prop].price}</p>
-//                    </div>
-//                </article>`;
-//    divElement.innerHTML += cards;
+
+// id="fade-in${increment++}"
+//    $("#fade-in" + increment).css("opacity", 0);
+
