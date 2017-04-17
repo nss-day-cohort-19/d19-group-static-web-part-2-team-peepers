@@ -7,7 +7,7 @@ var liquidgold = [{
 				},
 				{
 					name: "Purple Rain",
-					description:"The type of talent it takes to be able to feel confident enough to rock a purple crushed velvet suit, isn't near the talent level it took to make this. - Flavanoid scientist X34AF While it won't give you the skills of a musical god, drink enough of these and you may actually start seeing in an actual purple haze.",
+					description:"The type of talent it takes to be able to feel confident enough to rock a purple crushed velvet suit, isn't near the talent level it took to make this. - 'Flavanoid scientist X34AF' While it won't give you the skills of a musical god, drink enough of these and you may actually start seeing in an actual purple haze.",
 					price:".99\xA2 ea.<br />6pack - $5.00<br />Case of 24 - $20.00",					url:"../img/purplerain.jpeg"
 				},
 				{
