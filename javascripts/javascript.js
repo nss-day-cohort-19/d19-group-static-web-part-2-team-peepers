@@ -32,7 +32,7 @@ var liquidgold = [{
 				},
 				{
 					name: "Berries...?",
-					description:"Supposedly red means berries, but we don't use real ingredients in our drinks. We scoff at the idea of 'Organic' or 'GMO free'; all of our ingredients are created in our state of the art flavor creation facility on the S.S. Flavanoid, voyaging infinetly through international waters",
+					description:"Supposedly red means berries, but we don't use real ingredients in our drinks. We scoff at the idea of 'Organic' or 'GMO free'; all of our ingredients are created in our state of the art flavor creation facility on the S.S. Flavanoid, voyaging infinetly through international waters.",
 					price:".99\xA2 ea.<br />6pack - $5.00<br />Case of 24 - $20.00",					url:"../img/red.jpg"
 				},
 				{
